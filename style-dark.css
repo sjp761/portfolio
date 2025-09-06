@@ -1,0 +1,15 @@
+@media (prefers-color-scheme: dark) 
+{
+    body {
+        background: #222;
+        color: #fff;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+        text-decoration-color: black;
+    }
+
+  /* Add more dark mode overrides here */
+}
